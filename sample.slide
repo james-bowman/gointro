@@ -1,0 +1,37 @@
+Introduction to Go
+30 Apr 2015
+Tags: go, golang 
+
+* What is Go
+
+.image ./small.png
+
+- Open source language based on C developed by Google for their own code
+- Procedural language with support OO concepts, 'duck typing' and first class functions
+- Statically typed and compiled language with the productivity of a dynamically typed scripting language
+- Compiles _insanely_ fast
+- Elegant support for concurrency (go routines and channels)
+- Garbage collection
+
+
+* Go Hello World
+
+.play hello.go
+
+* Simple Web Server
+
+.play webserver.go
+
+* Links and Resources
+
+.link http://golang.org Download Go
+.link http://golang.org/doc/ Go Documentation
+.link https://golang.org/doc/effective_go.html Effective Go
+.link https://gobyexample.com/ Go by Example
+.link http://blog.golang.org/ The Go Blog
+.link http://play.golang.org/ Go Playground
+.link https://godoc.org/ Documentation for all Go packages on Bitbucket, GitHub, Google Project Hosting and Launchpad
+.link http://go-talks.appspot.com/ All presentations and articles in Go present format on Github and Google Code
+
+
+
