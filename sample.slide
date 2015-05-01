@@ -28,6 +28,7 @@ Tags: go, golang
 .link http://golang.org/doc/ Go Documentation
 .link https://golang.org/doc/effective_go.html Effective Go
 .link https://gobyexample.com/ Go by Example
+.link https://tour.golang.org/welcome/1 A Tour of Go
 .link http://blog.golang.org/ The Go Blog
 .link http://play.golang.org/ Go Playground
 .link https://godoc.org/ Documentation for all Go packages on Bitbucket, GitHub, Google Project Hosting and Launchpad
