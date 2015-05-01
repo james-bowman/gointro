@@ -7,7 +7,7 @@ Tags: go, golang
 .image ./small.png
 
 - Open source language based on C developed by Google for their own code
-- Procedural language with support OO concepts, 'duck typing' and first class functions
+- Procedural language with support for OO concepts, 'duck typing' and first class functions
 - Statically typed and compiled language with the productivity of a dynamically typed scripting language
 - Compiles _insanely_ fast
 - Elegant support for concurrency (go routines and channels)
